@@ -17,7 +17,7 @@ Technologies Used
 
 Getting Started
 
-    Clone the repository: git clone https://github.com/Keba777/react-typescript-bootstrap-todo-list.git
+    Clone the repository: git clone https://github.com/Keba777/react-typescript-todo-list.git
     Install dependencies: npm install
     Start the development server: npm start
     Open your web browser and go to http://localhost:3000 to view the application.
